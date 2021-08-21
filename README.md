@@ -3,7 +3,7 @@
 This is a small code snippet, which is very useful and quick for downloading high resolution videos from youtube. 
 (This was one of my initial application snippets of python, used years ago, when I had started my journey in python.)
 
-The python library you will need is pytube.Make sure you have python package pytube installed.
+The python library you will need is pytube.Make sure you have pytube installed.
 Else install using :
 
 pip install pytube
