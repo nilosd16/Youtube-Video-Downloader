@@ -12,14 +12,21 @@ pip install pytube
 
 ## Features of Pytube:
 
-Support for Both Progressive & DASH Streams
-Easily Register on_download_progress & on_download_complete callbacks
-Command-line Interfaced Included
-Caption Track Support
-Outputs Caption Tracks to .srt format (SubRip Subtitle)
-Ability to Capture Thumbnail URL.
-Extensively Documented Source Code
-No Third-Party Dependencies
+1.Support for Both Progressive & DASH Streams
+
+2.Easily Register on_download_progress & on_download_complete callbacks
+
+3.Command-line Interfaced Included
+
+4.Caption Track Support
+
+5.Outputs Caption Tracks to .srt format (SubRip Subtitle)
+
+6.Ability to Capture Thumbnail URL.
+
+7.Extensively Documented Source Code
+
+8.No Third-Party Dependencies
 
 
 
